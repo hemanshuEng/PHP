@@ -8,10 +8,19 @@
 </head>
 <body>
 <?php
-
+//hello
+/*  this is comment  */
 echo "Hello this is first lesson <br> ";
 echo "hello";
-?>  
+$numberList = 'Edwin';
+$number_L ='hemanshu';
+$number =100;
+echo "<br>";
+echo 56+ 45;
+echo $numberList.$number_L;
+
+?> 
+
 </body>
 </html>
 
